@@ -5,7 +5,7 @@
  *@a: first int
  *@n: second int
  *
- * */
+ */
 void print_array(int *a, int n)
 {
 	int x;
