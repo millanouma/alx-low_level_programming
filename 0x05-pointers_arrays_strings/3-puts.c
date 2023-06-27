@@ -1,9 +1,10 @@
 #include "main.h"
+
 /**
- * _puts -  a function that prints a string
+ * _puts - prints a string
  * @str: the string
  *
- * Return : length of str
+ * Return: the length of the string
  */
 void _puts(char *str)
 {
