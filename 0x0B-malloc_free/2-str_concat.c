@@ -5,7 +5,7 @@
  * @s1: string 1
  * @s2: string 2
  *
- * Return :char pointer to newly allocated space in memory which contains
+ * Return: char pointer to newly allocated space in memory which contains
  * the contents of s1, s2 and null terminated.
  *
  */
