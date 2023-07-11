@@ -4,7 +4,7 @@
  * _strdup -  a function that returns a pointer to
  *  a newly allocated space in memory
  * which contains a copy of the string given as a parameter.
- * @strr: src string
+ * @str: src string
  *
  * Return: NULL if str = null
  * If memory allocated is insufficient
