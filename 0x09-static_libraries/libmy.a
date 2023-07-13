@@ -1,4 +1,9 @@
-#!/bin/bash
+!<arch>
+main.h/         0           0     0     644     701       `
+#ifndef MAIN.H
+#define MAIN.H
+#include <stddef.h>
+
 int _putchar(char c);
 int _islower(int c);
 int _isalpha(int c);
