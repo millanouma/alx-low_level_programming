@@ -8,3 +8,5 @@ Prototype: void print_name(char *name, void (*f)(char *));
 Prototype: void array_iterator(int *array, size_t size, void (*action)(int));
 where size is the size of the array
 and action is a pointer to the function you need to use
+
+2.Write a function that searches for an integer.
