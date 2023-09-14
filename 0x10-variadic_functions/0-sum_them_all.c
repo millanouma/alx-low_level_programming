@@ -2,7 +2,7 @@
 /**
  * sum_them_all -  function that returns the
  *  sum of all its parameters.
- * @ unsigned int n - number of parameters
+ * @n - number of parameters
  *
  * Return: Sum
  */
