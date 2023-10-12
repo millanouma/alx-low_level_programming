@@ -5,4 +5,6 @@ Read or watch:
 
 1.Create a function that creates a file.
 
+2.Write a function that appends text at the end of a file.
+
 
