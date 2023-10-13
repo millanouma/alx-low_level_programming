@@ -4,10 +4,10 @@
 /**
  * read_textfile - reads a text file and prints it to the POSIX stdout
  * @filename: A pointer variable to the file.
- * #letters: number of letters to read.
+ * @letters: number of letters to read.
  *
  * Return: 0 if if filename is NULL or error
- * 	   the number of bytes the function can read and print.
+ * the number of bytes the function can read and print.
  *
  */
 ssize_t read_textfile(const char *filename, size_t letters)
